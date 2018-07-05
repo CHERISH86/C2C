@@ -1,5 +1,8 @@
 package com.example.c2c.Dto;
 
+/**
+ * Cherish 2018/7/5
+ */
 public class BuildingMessage {
     private String address;
     private String nameOfLessor;

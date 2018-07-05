@@ -4,6 +4,9 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
+/**
+ * Cherish 2018/7/5
+ */
 @Entity
 public class Building {
     @Id
