@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class C2cApplication {
+public class C2CApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(C2cApplication.class, args);
+        SpringApplication.run(C2CApplication.class, args);
     }
 }
